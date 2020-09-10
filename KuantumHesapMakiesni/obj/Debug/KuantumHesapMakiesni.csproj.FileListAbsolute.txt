@@ -1,0 +1,10 @@
+D:\Muhammed\c#\KuantumHesapMakiesni\bin\Debug\KuantumHesapMakiesni.exe.config
+D:\Muhammed\c#\KuantumHesapMakiesni\bin\Debug\KuantumHesapMakiesni.exe
+D:\Muhammed\c#\KuantumHesapMakiesni\bin\Debug\KuantumHesapMakiesni.pdb
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.csprojAssemblyReference.cache
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.Form1.resources
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.Properties.Resources.resources
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.csproj.GenerateResource.cache
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.csproj.CoreCompileInputs.cache
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.exe
+D:\Muhammed\c#\KuantumHesapMakiesni\obj\Debug\KuantumHesapMakiesni.pdb
